@@ -1,0 +1,43 @@
+_repo: Lost-in-the-backwoods_68584
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, W.
+    - Rainey, William
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+    wikipedia: https://en.wikipedia.org/wiki/William_Rainey
+creator:
+  author:
+    agent_name: Kenyon, E. C. (Edith C.)
+    alias: Kenyon, Edith C.
+    gutenberg_agent_id: '45539'
+    url: http://www.gutenberg.org/2009/agents/45539
+description: ''
+gutenberg_issued: '2022-07-21'
+identifiers:
+  gutenberg: '68584'
+language: en
+pgterms:marc905: 20220701164218kenyon
+pgterms:marc906: '1899'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :S. W. Partridge & Co.,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family reunions -- Juvenile fiction'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- GITenberg
+title: Lost in the backwoods
+url: http://www.gutenberg.org/ebooks/68584
