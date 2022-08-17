@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '9704'
     url: http://www.gutenberg.org/2009/agents/9704
     wikipedia: https://en.wikipedia.org/wiki/William_Rainey
+covers:
+- cover_type: archival
+  image_path: 68584-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Kenyon, E. C. (Edith C.)
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '45539'
     url: http://www.gutenberg.org/2009/agents/45539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68584#Lost-in-the-backwoods
 gutenberg_issued: '2022-07-21'
 identifiers:
   gutenberg: '68584'
